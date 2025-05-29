@@ -1,0 +1,1 @@
+ffmpeg -i "https://vod2.tech.ynu.ac.jp/vod/88ed7ca8660014991e13496a88a762d970bb1897caafdfc50bec277752957bfa/5149c0af7eea692143879ff255b8ff248fc4d85f615bf740973b4a2fc72f35dd/upfile.m3u8" -c copy media1.mp4
